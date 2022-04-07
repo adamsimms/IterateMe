@@ -2,8 +2,8 @@
 
 Welcome to this 1337 place around which I grow my knowledge and feed my curiosity about software and engineering!  
   
-I am curently a student in computer engineering and for most of the past 3 years, I have been experiencing with various technology in order to find where I would focus my career. I have had a particularly high amount of fun playing with microcontrollers like Rpi, Arduino and The espressif family.
-Although, since I recently spent a large amount of time on Hack The Box getting some ground knowledge on cybersecurity, mostly AppSec, I am currently looking on projects I could contribute. To be continued... 
+I am curently a student in computer engineering and for most of the past 3 years, I have been experiencing with various technology in order to find where I would focus my career. I have had a particularly high amount of fun playing with microcontrollers like Rpi, Arduino and the espressif family.
+Although, I recently spent a large amount of time on Hack The Box getting some ground knowledge on cybersecurity, mostly AppSec since it is the direction my career is heading, I am progressively looking on projects I could contribute to or buid in that domain. To be continued... 
 
 ### - 🔭 I’m currently working on ...
 My current project is a Puzzle Box I make for friend, based on an ESP8266. I a making this project because it makes me understand how to use the MCU and because it is an interesting engineering challenge with design choices and tests to be made along the road! These skills will make me faster building tools on the espressif platform for IoT or penetration testing purposes.
@@ -13,7 +13,7 @@ My current project is a Puzzle Box I make for friend, based on an ESP8266. I a m
 - Securing Web Apps with tools and good design patterns
 
 ### - 👯 I’m looking to collaborate on ...  
-Cybersec tools, either a Linux CLI tool or a MCU based tool
+Cybersec tools, either a Linux CLI tool for application penetration testing or a MCU based for various RF penetration testing (Wifi, Bluetooth, ore other)
 
 ### - ⚡ My first baby: ...  
 The project that got me started in computer engineering was a simple garden watering scheduler that I actually still use to this day!
