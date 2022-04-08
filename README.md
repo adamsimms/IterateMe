@@ -22,9 +22,12 @@ Cybersec tools, mostly a Linux CLI tool for application penetration testing or e
 
 ### - 🎓 Engineering student projects ...
 
+- [This project based on the SunFOunder PiCar](https://github.com/IterateMe/SunFounder_PiCar) was a realy interesting challenge in the fact that we had to use relatively unreliable sensors in order to make the PiCar follow a trajectory with obstacles. We used statistics to simulate the sensors behaviors and state machine principles in order to react to various percieved constraints from the environment.
+-   
 
+### - 🌟 Personnal projects ...
 
-### - 💥 First blood: ...  
+### - 💥 First blood ...  
 [The project that got me started in computer engineering](https://github.com/IterateMe/Garden_AuTomate_RPi) was a simple garden watering scheduler that I actually still use to this day!  
 The first version was a local web app running on python with flask on a raspberry pi, a single 24V electric valve and a simple board with LEDs and buttons and a simple RC filter.  
 I upgraded it over the years on a 3,50$ ESP8266 to work securely through Azure IoT Hub and added two more valves.  
