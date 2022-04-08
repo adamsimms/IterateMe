@@ -17,7 +17,7 @@ Although, I recently spent a large amount of time on Hack The Box getting some g
 ### - 👯 I’m looking to collaborate on ...  
 Cybersec tools, mostly a Linux CLI tool for application penetration testing or else a MCU based tool for various RF based penetration testing (Wifi, Bluetooth, or other IoT related tools)
 
-## 💾 Projects 💾
+## 💾 PROJECTS 💾
 
 ### - 🎓 Engineering student projects ...
 
