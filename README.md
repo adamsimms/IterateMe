@@ -28,12 +28,18 @@ Cybersec tools, mostly a Linux CLI tool for application penetration testing or e
 ### - 🎓 Engineering student projects ...
 
 - [This project based on the SunFOunder PiCar](https://github.com/IterateMe/SunFounder_PiCar) was a realy interesting challenge in the fact that we had to use relatively unreliable sensors in order to make the PiCar follow a trajectory with obstacles. We used statistics to simulate the sensors behaviors and state machine principles in order to react to various percieved constraints from the environment.
-- [This project was the REACT user interface for a web server running on an FPGA](https://github.com/IterateMe/alco2bin). It was an interesting first start with REACT and javascript
+- [This project was the REACT user interface for a web server running on an FPGA](https://github.com/IterateMe/alco2bin). It was an interesting first start with REACT and javascript! My team and I also tried a new wokflow where we would design the app on figma and than implementing it in react... Didn't went a round as we thought but was a great learning experience!
 
 ### - 🌟 Personnal projects ...
 
-- Funky PAD
+- The Funky_PAD has been a project I spent a lot of time on and tested with actual users. The problem I tried to address was that when using standing desks, static posture could still be an issue and all the tools actually on the market impared focus quite significantly when used. I built the [first version of a prototype](https://github.com/IterateMe/funky_PAD) with antifatigue mat and simple coin shaped actuators that would vibrate at a steady "beats" to mimic walking patterns. [The second version iterated on users feedback](https://github.com/IterateMe/FUNKY_PAD_V2) and introduced some form of biofeedback with the help of piezoelectrics. The challenge was the electronic part of the project since I wanted the piezoelectrics to produce an analog signal while pressing and releasing the foot on the mat. 
+
 - Jukebot
+
+### - 🌟 My contributions ...
+
+- CASUS
+- IoT for Beginner
 
 ### - 💥 First blood ...  
 [The project that got me started in computer engineering](https://github.com/IterateMe/Garden_AuTomate_RPi) was a simple garden watering scheduler that I actually still use to this day!  
