@@ -1,4 +1,4 @@
-### 👋 Greeting Fellow Geeks ! 👋
+# 👋 Greeting Fellow Geeks ! 👋
 
 Welcome to this 1337 place around which I grow my knowledge and feed my curiosity about software and engineering!  
   
