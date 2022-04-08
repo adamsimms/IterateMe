@@ -1,33 +1,34 @@
 # 👋 Greeting Fellow Geeks ! 👋
 
 Welcome to this 1337 place around which I grow my knowledge and feed my curiosity about software and engineering!  
-  
-I am currently a student in computer engineering and for most of the past 3 years, I have been experiencing with various technology in order to find where I would focus my career. I have had a particularly high amount of fun playing with microcontrollers like Rpi, Arduino and the espressif family.
-Although, I recently spent a large amount of time on Hack The Box getting some ground knowledge on cybersecurity, mostly AppSec since it is the direction my career is heading, I am progressively looking on projects I could contribute to or build in that domain. To be continued...  
-  
-  
-  
+
+<br/>
+
 ## - 👾 WHOAMI 👾
 
+I am currently a student in computer engineering and for most of the past 3 years, I have been experiencing with various technology in order to find where I would focus my career. I have had a particularly high amount of fun playing with microcontrollers like Rpi, Arduino and the espressif family.  
+Although, I recently spent a large amount of time on Hack The Box getting some ground knowledge on cybersecurity, mostly AppSec since it is the direction my career is heading.  
+I am progressively looking on projects I could contribute to or build in that domain. To be continued...  
+<br/>
 ### - 🔭 I’m currently working on ...
 [My current project is a Puzzle Box](https://github.com/IterateMe/puzzle_box) I make for friend, based on an ESP8266. I am making this project because it makes me understand the espressif platform at a deeper level and because it is an interesting engineering challenge with design choices and tests to be made along the road!  
 These skills will make me faster building tools on the espressif platform for IoT or penetration testing purposes.
 
 ### - 🌱 I’m currently learning ...
-- Application Security (XSS, SQLi, XXE, CSRF, ... and simple linux priviledge escalation)
-- Securing Web Apps with tools and good design patterns
+- Application penetration testing (XSS, SQLi, XXE, CSRF, ... and linux priviledge escalation)
+- Securing Web Apps with tools, good design patterns and architecture
 
 ### - 👯 I’m looking to collaborate on ...  
 Cybersec tools, mostly a Linux CLI tool for application penetration testing or else a MCU based tool for various RF based penetration testing (Wifi, Bluetooth, or other IoT related tools)  
-  
-  
-  
+<br/>
+<br/>
+<br/>
 ## 💾 PROJECTS 💾
 
 ### - 🎓 Engineering student projects ...
 
 - [This project based on the SunFOunder PiCar](https://github.com/IterateMe/SunFounder_PiCar) was a realy interesting challenge in the fact that we had to use relatively unreliable sensors in order to make the PiCar follow a trajectory with obstacles. We used statistics to simulate the sensors behaviors and state machine principles in order to react to various percieved constraints from the environment.
--   
+- [This project was the REACT user interface for a web server running on an FPGA](https://github.com/IterateMe/alco2bin). It was an interesting first start with REACT and javascript
 
 ### - 🌟 Personnal projects ...
 
