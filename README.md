@@ -27,6 +27,9 @@ Cybersec tools, mostly a Linux CLI tool for application penetration testing or e
 
 ### - 🌟 Personnal projects ...
 
+- Funky PAD
+- Jukebot
+
 ### - 💥 First blood ...  
 [The project that got me started in computer engineering](https://github.com/IterateMe/Garden_AuTomate_RPi) was a simple garden watering scheduler that I actually still use to this day!  
 The first version was a local web app running on python with flask on a raspberry pi, a single 24V electric valve and a simple board with LEDs and buttons and a simple RC filter.  
