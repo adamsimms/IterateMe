@@ -8,7 +8,8 @@ Although, I recently spent a large amount of time on Hack The Box getting some g
 ## - 👾 WHOAMI 👾
 
 ### - 🔭 I’m currently working on ...
-[My current project is a Puzzle Box](https://github.com/IterateMe/puzzle_box) I make for friend, based on an ESP8266. I am making this project because it makes me understand how to use the MCU and because it is an interesting engineering challenge with design choices and tests to be made along the road! These skills will make me faster building tools on the espressif platform for IoT or penetration testing purposes.
+[My current project is a Puzzle Box](https://github.com/IterateMe/puzzle_box) I make for friend, based on an ESP8266. I am making this project because it makes me understand the espressif platform at a deeper level and because it is an interesting engineering challenge with design choices and tests to be made along the road!  
+These skills will make me faster building tools on the espressif platform for IoT or penetration testing purposes.
 
 ### - 🌱 I’m currently learning ...
 - Application Security (XSS, SQLi, XXE, CSRF, ... and simple linux priviledge escalation)
@@ -23,7 +24,7 @@ Cybersec tools, mostly a Linux CLI tool for application penetration testing or e
 
 
 
-### - ⚡ My first baby: ...  
+### - 💥 First blood: ...  
 [The project that got me started in computer engineering](https://github.com/IterateMe/Garden_AuTomate_RPi) was a simple garden watering scheduler that I actually still use to this day!  
 The first version was a local web app running on python with flask on a raspberry pi, a single 24V electric valve and a simple board with LEDs and buttons and a simple RC filter.  
 I upgraded it over the years on a 3,50$ ESP8266 to work securely through Azure IoT Hub and added two more valves.  
