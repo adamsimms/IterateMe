@@ -34,14 +34,14 @@ Cybersec tools, mostly a Linux CLI tool for application penetration testing or e
 
 - The Funky_PAD has been a project I spent a lot of time on and tested with actual users. The problem I tried to address was that when using standing desks, static posture could still be an issue and all the tools actually on the market impared focus quite significantly when used. I built the [first version of a prototype](https://github.com/IterateMe/funky_PAD) with antifatigue mat and simple coin shaped actuators that would vibrate at a steady "beats" to mimic walking patterns. [The second version iterated on users feedback](https://github.com/IterateMe/FUNKY_PAD_V2) and introduced some form of biofeedback with the help of piezoelectrics. The challenge was the electronic part of the project since I wanted the piezoelectrics to produce an analog signal while pressing and releasing the foot on the mat. 
 
-- Jukebot
+- The implementation of a [jukebox inside a modified toy robot](https://github.com/IterateMe/JukeBot) I made for a friend. The aim of this simple project was to see how fast I could come up with something that would work.
 
 ### - 🌟 My contributions ...
 
-- For an amateur Rocketery university student project I contributed in:
-  - The design and implementation of a software that would take accelerometer data, manipulate them and create a .wav file to be played by haptic actuators.
-  - 
-- IoT for Beginner
+- For an amateur Rocketery university student project (Projet CASUS), I contributed in:
+  - The design and implementation of a [signal processing software](https://github.com/Projet-CASUS/Vibes) that would take accelerometer data, manipulate them and create a .wav file to be played by haptic actuators.
+  - The implementation of the [data acquisition payload](https://github.com/Projet-CASUS/MKRZ_MPU6050).
+- Another project I wanted to contribute since I used their platform quite a lot at this time was the [IoT for Beginners course from the Microsoft team](https://github.com/IterateMe/IoT-For-Beginners). I simply started the french translation and translated a few chapters! 
 
 ### - 💥 First blood ...  
 [The project that got me started in computer engineering](https://github.com/IterateMe/Garden_AuTomate_RPi) was a simple garden watering scheduler that I actually still use to this day!  
