@@ -36,7 +36,7 @@ Cybersec tools, mostly a Linux CLI tool for application penetration testing or e
 
 - The implementation of a [jukebox inside a modified toy robot](https://github.com/IterateMe/JukeBot) I made for a friend. The aim of this simple project was to see how fast I could come up with something that would work.
 
-### - 🌟 My contributions ...
+### - 🎇 My contributions ...
 
 - For an amateur Rocketery university student project (Projet CASUS), I contributed in:
   - The design and implementation of a [signal processing software](https://github.com/Projet-CASUS/Vibes) that would take accelerometer data, manipulate them and create a .wav file to be played by haptic actuators.
