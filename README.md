@@ -38,7 +38,9 @@ Cybersec tools, mostly a Linux CLI tool for application penetration testing or e
 
 ### - 🌟 My contributions ...
 
-- CASUS
+- For an amateur Rocketery university student project I contributed in:
+  - The design and implementation of a software that would take accelerometer data, manipulate them and create a .wav file to be played by haptic actuators.
+  - 
 - IoT for Beginner
 
 ### - 💥 First blood ...  
