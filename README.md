@@ -48,7 +48,7 @@ Cybersec tools, mostly a Linux CLI tool for application penetration testing or e
 The first version was a local web app running on python with flask on a raspberry pi, a single 24V electric valve and a simple board with LEDs and buttons and a simple RC filter.  
 [I upgraded it over the years on a 3,50$ ESP8266](https://github.com/IterateMe/Garden_AuTomate_ESP8266/tree/master) to work securely through Azure IoT Hub and added two more valves.  
 This version still works on manual calls over Azure IoT hub. The .NET project with C# and React was put on ice for me to focus on other things.  
-(And I like calling things over CLI)  
+(And I like sending commands over CLI)  
 
 <!--
 **IterateMe/IterateMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
