@@ -4,7 +4,7 @@ Welcome to this 1337 place around which I grow my knowledge and feed my curiosit
 
 <br/>
 
-## - 👾 WHOAMI 👾
+## 👾 WHOAMI 👾
 
 I am currently a student in computer engineering and for most of the past 3 years, I have been experiencing with various technology in order to find where I would focus my career. I have had a particularly high amount of fun playing with microcontrollers like Rpi, Arduino and the espressif family.  
 Although, I recently spent a large amount of time on Hack The Box getting some ground knowledge on cybersecurity, mostly AppSec since it is the direction my career is heading.  
