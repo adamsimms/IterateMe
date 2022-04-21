@@ -44,11 +44,18 @@ Cybersec tools, mostly a Linux CLI tool for application penetration testing or e
 - Another project I wanted to contribute since I used their platform quite a lot at this time was the [IoT for Beginners course from the Microsoft team](https://github.com/IterateMe/IoT-For-Beginners). I simply started the french translation and translated a few chapters! 
 
 ### - 💥 First blood ...  
+V1  
 [The project that got me started in computer engineering](https://github.com/IterateMe/Garden_AuTomate_RPi) was a simple garden watering scheduler that I actually still use to this day!  
 The first version was a local web app running on python with flask on a raspberry pi, a single 24V electric valve and a simple board with LEDs and buttons and a simple RC filter.  
-[I upgraded it over the years on a 3,50$ ESP8266](https://github.com/IterateMe/Garden_AuTomate_ESP8266/tree/master) to work securely through Azure IoT Hub and added two more valves.  
-This version still works on manual calls over Azure IoT hub. The .NET project with C# and React was put on ice for me to focus on other things.  
-(And I like sending commands over CLI)  
+V2  
+I upgraded it over the years on a 3,50$ ESP8266 to work securely through Azure IoT Hub and added two more valves:  
+[Device part](https://github.com/IterateMe/Garden_AuTomate_ESP8266/)  
+- Azure IoT Hub  
+- Embeded C SDK on ESP8266  
+
+[backend/frontend](https://github.com/IterateMe/Garden_Automate_dotnet_react)  
+- ASP.Net core  
+- React  
 
 <!--
 **IterateMe/IterateMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
